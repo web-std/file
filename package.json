@@ -1,6 +1,6 @@
 {
   "name": "web-file",
-  "version": "0.0.0-dev",
+  "version": "1.0.0",
   "description": "Web API compatible File implementation for node",
   "keywords": [
     "file",
