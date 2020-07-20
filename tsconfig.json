@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "esModuleInterop": true,
+    "target": "ES2018",
+    "noEmit": true,
+    "moduleResolution": "node",
+    "rootDir": "."
+  },
+  "exclude": ["dist", "node_modules"],
+  "include": ["src/**/*.js", "test/**/*.js"],
+  "compileOnSave": false
+}
