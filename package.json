@@ -1,5 +1,5 @@
 {
-  "name": "web-file",
+  "name": "web-file-polyfill",
   "version": "1.0.0",
   "description": "Web API compatible File implementation for node",
   "keywords": [

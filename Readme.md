@@ -9,7 +9,7 @@ Web API compatible [File][] for nodejs.
 ### Usage
 
 ```js
-import { File, Blob } from "web-file"
+import { File, Blob } from "web-file-polyfill"
 const file = new File(["hello", new TextEncoder().encode("world")], "hello")
 for await (const chunk of blob.stream()) {
   console.log(chunk)
