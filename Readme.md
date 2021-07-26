@@ -24,7 +24,7 @@ be able to get all the type innference out of the box.
 
 ## Install
 
-    npm install web-file
+    npm install web-file-polyfill
 
 [node.js ci]: https://github.com/Gozala/web-file/workflows/Node.js%20CI/badge.svg
 [version.icon]: https://img.shields.io/npm/v/web-file.svg
