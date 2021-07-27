@@ -1,5 +1,9 @@
 # web-file
 
+## Status
+
+Deprecated: This library was superseeded by [@web-std/file](https://www.npmjs.com/package/@web-std/file). Please use that library instead.
+
 ![Node.js CI][node.js ci]
 [![package][version.icon] ![downloads][downloads.icon]][package.url]
 [![styled with prettier][prettier.icon]][prettier.url]
@@ -26,12 +30,12 @@ be able to get all the type innference out of the box.
 
     npm install web-file-polyfill
 
-[node.js ci]: https://github.com/Gozala/web-file/workflows/Node.js%20CI/badge.svg
-[version.icon]: https://img.shields.io/npm/v/web-file.svg
-[downloads.icon]: https://img.shields.io/npm/dm/web-file.svg
-[package.url]: https://npmjs.org/package/web-file
-[downloads.image]: https://img.shields.io/npm/dm/web-file.svg
-[downloads.url]: https://npmjs.org/package/web-file
+[node.js ci]: https://github.com/Gozala/web-file-polyfill/workflows/Node.js%20CI/badge.svg
+[version.icon]: https://img.shields.io/npm/v/web-file-polyfill.svg
+[downloads.icon]: https://img.shields.io/npm/dm/web-file-polyfill.svg
+[package.url]: https://npmjs.org/package/web-file-polyfill
+[downloads.image]: https://img.shields.io/npm/dm/web-file-polyfill.svg
+[downloads.url]: https://npmjs.org/package/web-file-polyfill
 [prettier.icon]: https://img.shields.io/badge/styled_with-prettier-ff69b4.svg
 [prettier.url]: https://github.com/prettier/prettier
 [blob]: https://developer.mozilla.org/en-US/docs/Web/API/Blob/Blob
